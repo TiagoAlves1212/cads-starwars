@@ -1,7 +1,7 @@
 🎴 Cards 3D de Star Wars
 Um projeto de interface com efeito 3D interativo para exibir cards com personagens icônicos do universo Star Wars. O efeito de rotação é acionado pela posição do mouse, criando uma sensação de profundidade e dinamismo. A inspiração vem da estética da galáxia distante que todos amamos!
 
-<img src="img/cards-starwars.jpg">
+<img src="img/cads-starwars.jpg">
 
 💡 Demonstração
 Veja o projeto em ação: https://cads-starwars.vercel.app/
